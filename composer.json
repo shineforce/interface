@@ -1,0 +1,21 @@
+{
+  "name": "shineforce/interfaces",
+  "description": "apis",
+  "type": "library",
+  "require": {
+    "php": ">=7.2"
+  },
+  "license": "",
+  "authors": [
+    {
+      "name": "shineforce",
+      "email": "shineforce@hotmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Shineforce\\Interfaces\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
